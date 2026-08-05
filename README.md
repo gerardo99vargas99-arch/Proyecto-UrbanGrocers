@@ -1,5 +1,5 @@
 # 🚀 Testing para API - "Urban Grocers"
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🎯 Objetivo
 Validar la estabilidad y el correcto funcionamiento de los endpoints de la API a partir de la documentación en ApiDoc, asegurando el cumplimiento de los criterios de aceptación.
 
@@ -11,6 +11,7 @@ Validar la estabilidad y el correcto funcionamiento de los endpoints de la API a
 ## 📋 Resultados
 *   30 bugs funcionales documentados, principalmente en el método GET por validación de límites.
 *   Cobertura completa de los flujos críticos de creación y consulta de usuarios.
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +24,8 @@ Validar la estabilidad y el correcto funcionamiento de los endpoints de la API a
 **🌐 Documentación:** [ApiDoc Urban Grocers](PON_AQUÍ_TU_LINK)
 
 **📁 Evidencia:** [🔗 Ver Checklist y Bug Report](PON_AQUÍ_TU_LINK)
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 💡 Aprendizaje:
 
