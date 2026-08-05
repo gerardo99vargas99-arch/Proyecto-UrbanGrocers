@@ -1,18 +1,18 @@
-## 🚀 Testing para API - "Urban Grocers"
+# 🚀 Testing para API - "Urban Grocers"
 
-### 🎯 Objetivo
+## 🎯 Objetivo
 Validar la estabilidad y el correcto funcionamiento de los endpoints de la API a partir de la documentación en ApiDoc, asegurando el cumplimiento de los criterios de aceptación.
 
-### 🔧 Proceso de Pruebas
+## 🔧 Proceso de Pruebas
 *   Diseño de 61 casos de prueba con matriz de trazabilidad cubriendo escenarios positivos, negativos y de límites.
 *   Análisis de comportamiento del back-end con Postman, validando métodos `POST` y `GET` 
 *   Documentación de defectos con evidencia y trazabilidad en Jira.
 
-### 📋 Resultados
+## 📋 Resultados
 *   30 bugs funcionales documentados, principalmente en el método GET por validación de límites.
 *   Cobertura completa de los flujos críticos de creación y consulta de usuarios.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 | Categoría | Herramientas |
 | :--- | :--- |
 | Gestión de Pruebas | Jira, Excel |
