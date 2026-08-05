@@ -9,7 +9,7 @@ Validar la calidad y estabilidad de los servicios back-end de Urban Grocers a pa
 3.  **Ejecución:** Validación de endpoints mediante colecciones en **Postman**, verificando los métodos `POST` para creación, `GET` para consulta y `PATCH` para actualización de usuarios.
 4.  **Gestión de Defectos:** Reporte y seguimiento de incidencias en **Jira** con pasos reproducibles, evidencia, severidad y trazabilidad hacia el requisito.
 
-### :chart_with_upwards_trend: Resultados
+### 🔧 Resultados
 Se detectaron y documentaron **26 defectos**, concentrados principalmente en la validación de límites del método `GET`. Se logró optimizar los tiempos de ejecución mediante la automatización del flujo en colecciones de Postman, asegurando la calidad del servicio antes de su integración con el front-end.
 
 ### :bulb: Conclusiones
