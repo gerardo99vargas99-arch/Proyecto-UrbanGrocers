@@ -37,3 +37,29 @@ Prueba de Apis:
 
 
 #### Enlace al Proyecto: https://docs.google.com/spreadsheets/d/1KE0OSKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing
+
+## :rocket: API Testing - Urban Grocers
+
+### :dart: ¿Qué hice?
+Validación de endpoints del back-end a partir de la documentación oficial (ApiDoc) como fuente principal de requisitos.
+
+Ejecuté **Smoke Testing** para definir límites de prueba, criterios de aceptación y flujos críticos a validar, con el objetivo de asegurar la calidad de los servicios REST.
+
+### :gear: ¿Cómo lo hice?
+- Analicé los requisitos del back-end en **ApiDoc**.
+- Validé los servicios mediante **Postman** utilizando los métodos `POST` (creación de usuario), `GET` (consulta de información) y `PATCH` (actualización).
+- Diseñé y documenté casos de prueba en **Excel** cubriendo escenarios positivos, negativos y de límites.
+- Gestioné y di seguimiento a defectos en **Jira** con evidencia, pasos reproducibles y priorización.
+
+### :chart_with_upwards_trend: ¿Qué logré?
+- Detecté **26 defectos** en endpoints, principalmente en métodos `GET` relacionados a validación de límites definidos en la documentación.
+- Optimicé el flujo de trabajo y tiempos de validación mediante colecciones en Postman.
+- Mejoré la calidad de las APIs asegurando trazabilidad entre requisito > caso de prueba > defecto en Jira.
+
+### :bulb: Conclusiones
+Al inicio, el testing de APIs era un área nueva para mí. Este proyecto me permitió pasar de la teoría a la práctica, fortaleciendo mi dominio en métodos HTTP, códigos de estado y validación de contratos.
+
+Consolidé mi criterio para identificar defectos críticos en back-end y fortalecí habilidades clave como el análisis detallado y la documentación estructurada. Un proyecto que me dio la base sólida para crecer hacia API Automation.
+
+### :wrench: Herramientas
+`Postman` | `Jira` | `Excel` | `ApiDoc`
