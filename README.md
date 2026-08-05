@@ -39,7 +39,7 @@ Además, consolidé mi flujo de trabajo profesional con colecciones en Postman p
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## Tester by: Gerardo Vargas Ventura ● QA Engineer
+## ✏️Tester by: Gerardo Vargas Ventura ● QA Engineer
 
 **🖥️Linkedln:** www.linkedin.com/in/gerardo-vargas-ventura1999
 
