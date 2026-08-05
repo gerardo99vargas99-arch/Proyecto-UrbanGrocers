@@ -12,14 +12,16 @@ Validar la estabilidad y el correcto funcionamiento de los endpoints de la API a
 *   30 bugs funcionales documentados, principalmente en el método GET por validación de límites.
 *   Cobertura completa de los flujos críticos de creación y consulta de usuarios.
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
+
 | Categoría | Herramientas |
 | :--- | :--- |
-| Gestión de Pruebas | Jira, Excel |
-| API Testing | Postman, ApiDoc |
+| **Gestión de Pruebas** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
+| **Tipos de Prueba** | ![Smoke](https://img.shields.io/badge/Smoke_Testing-grey?style=for-the-badge) ![API](https://img.shields.io/badge/API_Testing-grey?style=for-the-badge) ![Contract Testing](https://img.shields.io/badge/Contract_Testing-grey?style=for-the-badge) |
+| **API Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ApiDoc](https://img.shields.io/badge/ApiDoc-8CA1AF?style=for-the-badge&logo=readthedocs&logoColor=white) |
 
-### 💡 Conclusiones
-Este proyecto marcó mi transición de UI a Back-end Testing, fortaleciendo mi dominio en métodos HTTP, códigos de estado y validación de contratos. Consolidó mi criterio para detectar defectos críticos que no son visibles en la interfaz.
+### 🌐 Documentación: [ApiDoc Urban Grocers](PON_AQUÍ_TU_LINK)
+### 📁 Evidencia: [🔗 Ver Checklist y Bug Report](PON_AQUÍ_TU_LINK)
 
-### :wrench: Herramientas
-`Postman` | `Jira` | `Excel` | `ApiDoc`
+### 💡 Aprendizaje:
+Este proyecto representó mi transición de UI a Back-end Testing, fortaleciendo mi dominio en métodos HTTP, códigos de estado y validación de contratos. Consolidó mi criterio para detectar defectos críticos no visibles en la interfaz y mejoró mi documentación técnica en Jira.
