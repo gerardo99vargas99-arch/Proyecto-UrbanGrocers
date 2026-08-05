@@ -1,5 +1,6 @@
 # 🚀 Testing para API - "Urban Grocers"
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## 🎯 Objetivo
 Validar la estabilidad y el correcto funcionamiento de los endpoints de la API a partir de la documentación en ApiDoc, asegurando el cumplimiento de los criterios de aceptación.
 
@@ -10,8 +11,9 @@ Validar la estabilidad y el correcto funcionamiento de los endpoints de la API a
 
 ## 📋 Resultados
 *   30 bugs funcionales documentados, principalmente en el método GET por validación de límites.
-*   Cobertura completa de los flujos críticos de creación y consulta de usuarios.
-__________________________________________________________________________________________________________________________________________________________________________________________________________________
+*   Cobertura completa de los flujos críticos de creación y consulta de usuarios.  
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🛠️ Tech Stack
 
@@ -34,6 +36,7 @@ Este proyecto representó mi transición de UI a Back-end Testing, y fue un punt
 Fortalecí mi dominio en métodos HTTP (POST, GET, PATCH), validación de códigos de estado, estructura de JSON y validación de contratos contra la documentación oficial en ApiDoc. Aprendí a diseñar casos de prueba enfocados en límites, campos obligatorios y manejo de errores, identificando 30 defectos principalmente en la validación de límites del método GET.
 
 Además, consolidé mi flujo de trabajo profesional con colecciones en Postman para optimizar tiempos y mi documentación técnica en Jira, priorizando defectos con evidencia clara y pasos reproducibles. Este proyecto me dio la base sólida para dar el siguiente paso hacia la automatización de APIs.
+
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Tester by: Gerardo Vargas Ventura ● QA Engineer
