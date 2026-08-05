@@ -1,19 +1,25 @@
-## :rocket: API Testing - Urban Grocers
+## 🚀 Testing para API - "Urban Grocers"
 
-### :dart: Objetivo
-Validar la calidad y estabilidad de los servicios back-end de Urban Grocers a partir de la documentación oficial en ApiDoc, asegurando el cumplimiento de los criterios de aceptación y la correcta implementación de los métodos REST.
+### 🎯 Objetivo
+Validar la estabilidad y el correcto funcionamiento de los endpoints de la API a partir de la documentación en ApiDoc, asegurando el cumplimiento de los criterios de aceptación.
 
-### :gear: Proceso de Pruebas
-1.  **Análisis de Requisitos:** Revisión de la documentación técnica en ApiDoc para definir el alcance, flujos críticos y reglas de negocio.
-2.  **Diseño de Casos:** Creación de checklist y casos de prueba en Excel, contemplando escenarios positivos, negativos, de límites y manejo de errores.
-3.  **Ejecución:** Validación de endpoints mediante colecciones en **Postman**, verificando los métodos `POST` para creación, `GET` para consulta y `PATCH` para actualización de usuarios.
-4.  **Gestión de Defectos:** Reporte y seguimiento de incidencias en **Jira** con pasos reproducibles, evidencia, severidad y trazabilidad hacia el requisito.
+### 🔧 Proceso de Pruebas
+*   Diseño de 61 casos de prueba con matriz de trazabilidad cubriendo escenarios positivos, negativos y de límites.
+*   Análisis de comportamiento del back-end con Postman, validando métodos `POST` y `GET` 
+*   Documentación de defectos con evidencia y trazabilidad en Jira.
 
-### 🔧 Resultados
-Se detectaron y documentaron **26 defectos**, concentrados principalmente en la validación de límites del método `GET`. Se logró optimizar los tiempos de ejecución mediante la automatización del flujo en colecciones de Postman, asegurando la calidad del servicio antes de su integración con el front-end.
+### 📋 Resultados
+*   30 bugs funcionales documentados, principalmente en el método GET por validación de límites.
+*   Cobertura completa de los flujos críticos de creación y consulta de usuarios.
 
-### :bulb: Conclusiones
-Este proyecto marcó mi transición de UI a Back-end Testing. Fortalecí mi entendimiento de métodos HTTP, códigos de estado y validación de contratos. Consolidó mi criterio para detectar defectos críticos que no son visibles en la interfaz y mejoró mi documentación técnica en Jira.
+### 🛠️ Tech Stack
+| Categoría | Herramientas |
+| :--- | :--- |
+| Gestión de Pruebas | Jira, Excel |
+| API Testing | Postman, ApiDoc |
+
+### 💡 Conclusiones
+Este proyecto marcó mi transición de UI a Back-end Testing, fortaleciendo mi dominio en métodos HTTP, códigos de estado y validación de contratos. Consolidó mi criterio para detectar defectos críticos que no son visibles en la interfaz.
 
 ### :wrench: Herramientas
 `Postman` | `Jira` | `Excel` | `ApiDoc`
