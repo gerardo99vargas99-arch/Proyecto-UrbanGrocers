@@ -9,7 +9,7 @@ Validar la estabilidad y el correcto funcionamiento de los endpoints de la API a
 *   Análisis de comportamiento del back-end con Postman, validando métodos `POST` y `GET` 
 *   Documentación de defectos con evidencia y trazabilidad en Jira.
 
-## 📋 Resultados
+## 📈 Resultados
 *   30 bugs funcionales documentados, principalmente en el método GET por validación de límites.
 *   Cobertura completa de los flujos críticos de creación y consulta de usuarios.  
 
