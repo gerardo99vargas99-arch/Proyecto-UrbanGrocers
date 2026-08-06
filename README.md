@@ -23,7 +23,7 @@ ________________________________________________________________________________
 | **Tipos de Prueba** | ![Smoke](https://img.shields.io/badge/Smoke_Testing-grey?style=for-the-badge) ![API](https://img.shields.io/badge/API_Testing-grey?style=for-the-badge) ![Contract Testing](https://img.shields.io/badge/Contract_Testing-grey?style=for-the-badge) |
 | **API Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ApiDoc](https://img.shields.io/badge/ApiDoc-8CA1AF?style=for-the-badge&logo=readthedocs&logoColor=white) |
 
-**🌐 Documentación:** [ApiDoc Urban Grocers](https://cnt-909e694f-6e4e-477f-bb9e-81b63d81d774.containerhub.tripleten-services.com/docs/
+**🌐 Documentación:** [ApiDoc Urban Grocers](https://cnt-909e694f-6e4e-477f-bb9e-81b63d81d774.containerhub.tripleten-services.com/docs/)
 
 **📁 Evidencia:** [🔗 Ver Checklist y Bug Report](https://docs.google.com/spreadsheets/d/1KE0OSKe0jPPCd9U9E_iFZQaPvFzjQkmzlwe7pa1Hp9Y/edit?usp=sharing)
 
